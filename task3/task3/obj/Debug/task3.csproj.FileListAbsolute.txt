@@ -1,0 +1,10 @@
+C:\Users\Hangs\OneDrive\Desktop\SDV SAC\task3\task3\bin\Debug\task3.exe.config
+C:\Users\Hangs\OneDrive\Desktop\SDV SAC\task3\task3\bin\Debug\task3.exe
+C:\Users\Hangs\OneDrive\Desktop\SDV SAC\task3\task3\bin\Debug\task3.pdb
+C:\Users\Hangs\OneDrive\Desktop\SDV SAC\task3\task3\obj\Debug\task3.csproj.AssemblyReference.cache
+C:\Users\Hangs\OneDrive\Desktop\SDV SAC\task3\task3\obj\Debug\task3.Form1.resources
+C:\Users\Hangs\OneDrive\Desktop\SDV SAC\task3\task3\obj\Debug\task3.Properties.Resources.resources
+C:\Users\Hangs\OneDrive\Desktop\SDV SAC\task3\task3\obj\Debug\task3.csproj.GenerateResource.cache
+C:\Users\Hangs\OneDrive\Desktop\SDV SAC\task3\task3\obj\Debug\task3.csproj.CoreCompileInputs.cache
+C:\Users\Hangs\OneDrive\Desktop\SDV SAC\task3\task3\obj\Debug\task3.exe
+C:\Users\Hangs\OneDrive\Desktop\SDV SAC\task3\task3\obj\Debug\task3.pdb
